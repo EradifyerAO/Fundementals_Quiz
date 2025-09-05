@@ -26,4 +26,4 @@ The core functionality happens here. I created a seperate file for the javascrip
 
 FLOWCHART
 <br>
-Due to a great deal of difficulty I had with understanding how the Javascript code functioned, I elected to recreate the assignments included flowchart. It includes all of the code the app needs to function. Since I am a visual learner, this allowed me to break the code down into it's smaller components to help me understand what was going on.
+Due to a great deal of difficulty I had with understanding how the Javascript code functioned, I elected to recreate the assignment-included flowchart. It includes all of the code the app needs to function. Since I am a visual learner, this allowed me to break the code down into it's smaller components to help me understand what was going on.
